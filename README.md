@@ -26,3 +26,8 @@ See the attachment for what should be the output.
 ![Screenshot 2023-08-22 215433](https://github.com/MUMU-SAMIA99/Calculator_app_automation/assets/134962568/95880b5c-894d-404a-a174-68de426b9f58)
 
 ## Output Video
+
+
+https://github.com/MUMU-SAMIA99/Calculator_app_automation/assets/134962568/075c1d70-4b43-4b56-adf1-f03ba7dc4344
+
+
